@@ -1,0 +1,24 @@
+.header {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+.image {
+    padding-left: 15px;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.headerText{
+  font-size: 50px;
+  margin: auto 0;
+  font-weight: bold;
+  color: #0a0a0a;
+  text-shadow: 4px 3px 0px #ffffff, 9px 8px 0px #bcbcbc;;
+}
+
+.icon{
+  font-size: 50px;
+  margin: auto 0;
+}

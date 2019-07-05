@@ -1,0 +1,20 @@
+.resultContainer{
+    height: 20vh;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 5px #939494;
+    border-radius: 20px;
+    background-color: #303238;
+  }
+
+.resultDetail{
+    padding-top: 20px;
+    display:flex;
+    justify-content:center;
+    color: white;
+    font-size: 40px;
+}
+  
+  

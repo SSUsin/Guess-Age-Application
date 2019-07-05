@@ -1,0 +1,33 @@
+.centreText {
+    text-align: center;
+  }
+  
+h1 {
+  font-size: 150px;
+}
+
+.dropZone {
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 15px;
+  padding-bottom: 0px;
+  height: 51vh;
+  background-color: #303238;
+  box-shadow: 10px 10px 5px #939494;
+  border-radius: 20px;
+  color: white;
+}
+
+.image1 {
+  max-width: 80%;
+  height: 50vh;
+}
+
+.dropZoneText {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
